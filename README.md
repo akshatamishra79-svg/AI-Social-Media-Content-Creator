@@ -1,2 +1,2 @@
-# AI-Social-Media-Content-Creator
+# AI-Social-Media-Content
 Using Google Colab
